@@ -1,1 +1,8 @@
-storage/
+*
+!.gitignore
+!LICENSE.md
+!package.json
+!README.md
+!*/
+!dist/*
+src/
